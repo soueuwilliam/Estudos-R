@@ -30,7 +30,3 @@ Este é um repositório pessoal onde estou armazenando os códigos relacionados 
 3. Explore os códigos-fonte e exemplos práticos.
 
 Fique à vontade para sugerir melhorias ou compartilhar suas próprias contribuições se desejar!
-
-## Agradecimento
-
-Agradeço pela oportunidade de participar do curso de Introdução à Biologia de Sistemas. Este repositório servirá como meu espaço para aprender e praticar os conceitos abordados no curso.
